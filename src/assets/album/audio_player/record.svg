@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="0 0 150 150">
+  <g id="Group_18012" data-name="Group 18012" transform="translate(-126.278 -302.278)">
+    <circle id="Ellipse_52" data-name="Ellipse 52" cx="75" cy="75" r="75" transform="translate(126.278 302.278)" fill="#c8f2ec" opacity="0.3"/>
+    <g id="Group_18002" data-name="Group 18002" transform="translate(182.861 344.129)">
+      <path id="Path_15265" data-name="Path 15265" d="M284.264,10.488V36.193c0,13.52-20.364,13.52-20.364,0V10.488C263.9-3.032,284.264-3.032,284.264,10.488Z" transform="translate(-255.22 -0.348)" fill="#6cbfb2" fill-rule="evenodd"/>
+      <path id="Path_15266" data-name="Path 15266" d="M202.117,213.811a1.67,1.67,0,0,1,0-3.338h6.176v-8.68A18.9,18.9,0,0,1,191.1,182.932V168.577a1.67,1.67,0,0,1,3.338,0v14.355a15.607,15.607,0,1,0,31.213,0V168.577a1.67,1.67,0,0,1,3.338,0v14.355a19.039,19.039,0,0,1-17.359,18.862v8.68h6.343a1.67,1.67,0,0,1,0,3.338Z" transform="translate(-191.101 -147.087)" fill="#6cbfb2"/>
+    </g>
+    <g id="Ellipse_523" data-name="Ellipse 523" transform="translate(126.278 302.278)" fill="none" stroke="#6cbfb2" stroke-width="2">
+      <circle cx="75" cy="75" r="75" stroke="none"/>
+      <circle cx="75" cy="75" r="74" fill="none"/>
+    </g>
+  </g>
+</svg>

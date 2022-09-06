@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>218131294911-o487a8ujc1qab11f08b0ro7f20estc4k.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.218131294911-o487a8ujc1qab11f08b0ro7f20estc4k</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>218131294911-1om1upfc0t0p28l6f4pf9983pm0gv11t.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDGZ88cJ0vta8bCbftUXQJIXl7NLt0YS1I</string>
+	<key>GCM_SENDER_ID</key>
+	<string>218131294911</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.autumnwhispers</string>
+	<key>PROJECT_ID</key>
+	<string>autumn-w</string>
+	<key>STORAGE_BUCKET</key>
+	<string>autumn-w.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:218131294911:ios:c6bf8ffea42484fba6340a</string>
+</dict>
+</plist>

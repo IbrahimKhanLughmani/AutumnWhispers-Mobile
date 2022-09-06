@@ -1,0 +1,38 @@
+export default axios = {
+    "host": "https://awnode-api.filesdna.com", 
+    "endpoints": {
+      "register": "/api/auth/register",
+      "login": "/api/auth/login",
+      "verify": "/api/auth/verify-code",
+      "forgetPass": "/api/auth/forgot-password",
+      "resetPassVer": "/api/auth/verify-reset-password-code",
+      "resetPass": "/api/auth/reset-password",
+
+      "getProfile": "/api/user/get-profile",
+      "getContacts": "/api/user/contacts",
+      "updateProfile": "/api/user/update",
+      "updateContact": "/api/user/upload-contacts",
+      "joinedContact": "/api/user/joined-contacts",
+      "contactUs": "/api/user/contact-us",
+
+      "getAlbum": "/api/album",
+      "getAlbumById": "/api/album/",
+      "albumLoading": "/api/album/setLoadingStatus",
+      "createAlbum": "/api/album",
+      "sharedAlbums": "/api/album/getSharedAlbums",
+      "getSharedAlbums": "/api/album/getSharedAlbums?status=accepted&filter=true",
+      "editAlbum": "/api/album/update-album?fe_album_id=",
+      "shareAlbum": "/api/album/shareAlbum",
+      "deleteAlbum": "/api/album/",
+      "deleteSharedAlbum": "/api/album/cancelSharing",
+      "deleteSharedFolder": "/api/album/sharedAlbum/",
+      "shareSound": "/api/sound",
+      "deleteSound": "/api/sound/",
+      "sharePhoto": "/api/photo",
+      "deletePhoto": "/api/photo/",
+      "shareVideo": "/api/video",
+      "deleteVideo": "/api/video/",
+      "uploadFile": "/api/upload/uploadFiles",
+      "invitation": "/api/album/sharedWith",
+    }
+  }

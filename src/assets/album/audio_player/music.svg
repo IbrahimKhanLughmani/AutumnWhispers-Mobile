@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="0 0 150 150">
+  <g id="Group_18022" data-name="Group 18022" transform="translate(-113 -350)">
+    <g id="Ellipse_526" data-name="Ellipse 526" transform="translate(113 350)" fill="none" stroke="#6cbfb2" stroke-width="2">
+      <circle cx="75" cy="75" r="75" stroke="none"/>
+      <circle cx="75" cy="75" r="74" fill="none"/>
+    </g>
+    <circle id="Ellipse_521" data-name="Ellipse 521" cx="75" cy="75" r="75" transform="translate(113 350)" fill="#c8f2ec" opacity="0.3"/>
+    <g id="so-music-note-2" transform="translate(152.085 395)">
+      <path id="Path_15267" data-name="Path 15267" d="M45.041,3h-33.5A3.045,3.045,0,0,0,8.5,6.045v29.1h0a12.131,12.131,0,0,1,6.09,10.49V9.09H42v26.05h0a12.131,12.131,0,0,1,6.09,10.49V6.045A3.045,3.045,0,0,0,45.041,3Z" transform="translate(12.257 0)" fill="#6cbfb2"/>
+      <circle id="Ellipse_519" data-name="Ellipse 519" cx="12.062" cy="12.062" r="12.062" transform="translate(36.329 33.178)" fill="#6cbfb2"/>
+      <circle id="Ellipse_520" data-name="Ellipse 520" cx="12.062" cy="12.062" r="12.062" transform="translate(2.376 33.178)" fill="#6cbfb2"/>
+    </g>
+  </g>
+</svg>

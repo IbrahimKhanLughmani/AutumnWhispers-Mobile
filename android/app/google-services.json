@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "218131294911",
+    "project_id": "autumn-w",
+    "storage_bucket": "autumn-w.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218131294911:android:317634dbdb7195a0a6340a",
+        "android_client_info": {
+          "package_name": "com.autumnwhispers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218131294911-3vco8ep02khevbdg8i5tnvisvl1j5lq2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.autumnwhispers",
+            "certificate_hash": "41f701382c177c53b308b8c29e0b504cc4b3907a"
+          }
+        },
+        {
+          "client_id": "218131294911-81n6il5svljf4d4gdgfc7ms7hv22g1ri.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.autumnwhispers",
+            "certificate_hash": "53bc3e10c4d3affe5f89a33b0082ed0018a5b009"
+          }
+        },
+        {
+          "client_id": "218131294911-q4hb32gkjc68010fc1enosvumukvd7an.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.autumnwhispers",
+            "certificate_hash": "0f020cf657bb50117344e2ceb07b04989b71b057"
+          }
+        },
+        {
+          "client_id": "218131294911-qbh22dnvc2utlr0ot56u1866g3857i3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh1h7wFAG9PlyncasfjErxFgaKO-hqylQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218131294911-qbh22dnvc2utlr0ot56u1866g3857i3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">
+  <g id="Edit_profile_dark" transform="translate(-357 -147)">
+    <circle id="Ellipse_5" data-name="Ellipse 5" cx="28" cy="28" r="28" transform="translate(357 147)" fill="#343c71"/>
+    <g id="Icon_feather-edit-2" data-name="Icon feather-edit-2" transform="translate(225.34 -113.003)">
+      <path id="Path_407" data-name="Path 407" d="M149.66,299a1,1,0,0,1-.965-1.262l1.512-5.548a1.006,1.006,0,0,1,.258-.445l13.617-13.616a3.853,3.853,0,0,1,5.45,5.448l-13.618,13.617a.993.993,0,0,1-.443.257l-5.548,1.514A.99.99,0,0,1,149.66,299Zm2.407-6.028-.983,3.6,3.6-.982,13.43-13.429a1.852,1.852,0,0,0,0-2.62,1.9,1.9,0,0,0-2.621,0h0Zm12.722-14.136h0Z" fill="#fff"/>
+    </g>
+  </g>
+</svg>
