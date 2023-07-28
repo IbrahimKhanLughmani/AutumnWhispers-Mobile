@@ -44,7 +44,7 @@ const VerificationScreen = ({navigation}) => {
   };
 
   const showAuthenticationDialog = () => {
-    if(biometric.biometryType !== null && biometric.biometryType !== undefined){
+    if(biometric.biometryType){
       FingerprintScanner.authenticate({
         description: getMessage()
       })
